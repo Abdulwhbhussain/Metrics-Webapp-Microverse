@@ -5,16 +5,16 @@ import {
   Routes,
   Route,
 } from 'react-router-dom';
-import Header from './components/Header';
-import Home from './components/Home';
-import Details from './components/Details';
-import SearchPage from './components/SearchPage';
-import ErrorPage from './components/ErrorPage';
+import Navbar from './components/Navbar';
+import Home from './pages/Home';
+import Details from './pages/Details';
+import SearchPage from './pages/SearchPage';
+import ErrorPage from './pages/ErrorPage';
 
 function App() {
   return (
     <Router>
-      <Header />
+      <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/details/:name/:lat/:lon" element={<Details />} />

@@ -1,0 +1,22 @@
+nav {
+  background-color: rgba(92, 92, 92, 0.108);
+}
+
+.active {
+  color: white;
+  border-bottom: 1px solid whitesmoke;
+}
+
+nav ul li {
+  font-family: 'Roboto Slab', serif;
+}
+
+/* Add CSS for slide-in and slide-out transitions */
+.mobile-list-container {
+  height: 100vh;
+  width: 100%;
+}
+
+.slide-in {
+  transition: all 0.5s ease;
+}
