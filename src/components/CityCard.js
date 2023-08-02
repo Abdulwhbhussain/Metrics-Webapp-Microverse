@@ -76,10 +76,10 @@ function CityCard({ city }) {
 }
 
 const Card = styled.div`
-  align-items: center;
   border: 2px solid red;
   border-radius: 10px;
   width: 45%;
+  margin: 10px;
   figure {
     img {
       width: 100%;
