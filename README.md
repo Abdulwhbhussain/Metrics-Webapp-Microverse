@@ -159,7 +159,7 @@ To run the project, execute the following command:
 
 > Here is the Link to this Live Project:
 
-> https://space-travelers-hub-three.vercel.app/
+> https://metrics-webapp-microverse.vercel.app/
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -208,7 +208,7 @@ If you like this project Leave A Star.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse and The Code Reviewers of This Project for giving 
-Reviews and Feedback Regarding This Project. I would like to thank Microverse for this opportunity. Ko Kaung Myat Kyaw(Berry) for Design ideas.
+Reviews and Feedback Regarding This Project.I would like to give credit to Nelson Sakwa for Design ideas.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

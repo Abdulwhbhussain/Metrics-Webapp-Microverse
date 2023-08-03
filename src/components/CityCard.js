@@ -61,11 +61,11 @@ function CityCard({ city }) {
             {city.country}
           </li>
           <li>
-            Latitude :
+            Latitude:
             {city.lat}
           </li>
           <li>
-            Longitude :
+            Longitude:
             {city.lon}
           </li>
         </ul>
@@ -76,15 +76,26 @@ function CityCard({ city }) {
 }
 
 const Card = styled.div`
-  border: 2px solid red;
+  border: 2px solid grey;
   border-radius: 10px;
-  width: 45%;
+  width: 60%;
   margin: 10px;
   figure {
     img {
       width: 100%;
       height: 100%;
       border-radius: 10px;
+    }
+  }
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  ul {
+    list-style: none;
+    li {
+      font-size: 1.2rem;
+      text-decoration: none !important;
     }
   }
 `;
