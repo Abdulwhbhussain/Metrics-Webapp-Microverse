@@ -23,6 +23,7 @@
     - [5- Redux](#5--redux)
     - [6- Jest](#6--jest)
     - [Tech Stack ](#tech-stack-)
+  - [🚀 Live Demo ](#-live-demo-)
     - [Key Features ](#key-features-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
@@ -82,6 +83,15 @@ The Weather App is a website designed to display weather conditions for cities a
     <li><a>Jest</a></li>
   </ul>
 </details>
+
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://www.loom.com/share/bf34dfe621194fcd8e2c0e9599a321ae?sid=9a9c451b-f469-4900-bb8f-099f419c19cb)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
