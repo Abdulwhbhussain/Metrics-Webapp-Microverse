@@ -30,11 +30,11 @@ exports[`Home component Home component renders correctly 1`] = `
   >
     <a
       className=""
-      href="/details/Abu Dhabi/24.4667/54.3667"
+      href="/details/Abu Dhabi/24.46/54.36"
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB hwNKfY card"
+        className="sc-bgqQcB GAjnS card"
       >
         <figure>
           <img
@@ -54,22 +54,22 @@ exports[`Home component Home component renders correctly 1`] = `
           </li>
           <li>
             Latitude:
-            24.4667
+            24.46
           </li>
           <li>
             Longitude:
-            54.3667
+            54.36
           </li>
         </ul>
       </div>
     </a>
     <a
       className=""
-      href="/details/Amsterdam/52.374/4.8897"
+      href="/details/Amsterdam/52.37/4.88"
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB hwNKfY card"
+        className="sc-bgqQcB GAjnS card"
       >
         <figure>
           <img
@@ -89,22 +89,22 @@ exports[`Home component Home component renders correctly 1`] = `
           </li>
           <li>
             Latitude:
-            52.374
+            52.37
           </li>
           <li>
             Longitude:
-            4.8897
+            4.88
           </li>
         </ul>
       </div>
     </a>
     <a
       className=""
-      href="/details/Bangkok/13.75/100.5167"
+      href="/details/Bangkok/13.75/100.51"
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB hwNKfY card"
+        className="sc-bgqQcB GAjnS card"
       >
         <figure>
           <img
@@ -128,18 +128,18 @@ exports[`Home component Home component renders correctly 1`] = `
           </li>
           <li>
             Longitude:
-            100.5167
+            100.51
           </li>
         </ul>
       </div>
     </a>
     <a
       className=""
-      href="/details/Beijing/39.9062/116.3913"
+      href="/details/Beijing/39.9/116.39"
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB hwNKfY card"
+        className="sc-bgqQcB GAjnS card"
       >
         <figure>
           <img
@@ -159,22 +159,22 @@ exports[`Home component Home component renders correctly 1`] = `
           </li>
           <li>
             Latitude:
-            39.9062
+            39.9
           </li>
           <li>
             Longitude:
-            116.3913
+            116.39
           </li>
         </ul>
       </div>
     </a>
     <a
       className=""
-      href="/details/Berlin/52.517/13.3889"
+      href="/details/Berlin/52.51/13.38"
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB hwNKfY card"
+        className="sc-bgqQcB GAjnS card"
       >
         <figure>
           <img
@@ -194,22 +194,22 @@ exports[`Home component Home component renders correctly 1`] = `
           </li>
           <li>
             Latitude:
-            52.517
+            52.51
           </li>
           <li>
             Longitude:
-            13.3889
+            13.38
           </li>
         </ul>
       </div>
     </a>
     <a
       className=""
-      href="/details/Cairo/30.0626/31.2497"
+      href="/details/Cairo/30.06/31.24"
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB hwNKfY card"
+        className="sc-bgqQcB GAjnS card"
       >
         <figure>
           <img
@@ -229,22 +229,22 @@ exports[`Home component Home component renders correctly 1`] = `
           </li>
           <li>
             Latitude:
-            30.0626
+            30.06
           </li>
           <li>
             Longitude:
-            31.2497
+            31.24
           </li>
         </ul>
       </div>
     </a>
     <a
       className=""
-      href="/details/Hong Kong/22.2855/114.1577"
+      href="/details/Hong Kong/22.28/114.15"
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB hwNKfY card"
+        className="sc-bgqQcB GAjnS card"
       >
         <figure>
           <img
@@ -264,11 +264,11 @@ exports[`Home component Home component renders correctly 1`] = `
           </li>
           <li>
             Latitude:
-            22.2855
+            22.28
           </li>
           <li>
             Longitude:
-            114.1577
+            114.15
           </li>
         </ul>
       </div>
@@ -279,7 +279,7 @@ exports[`Home component Home component renders correctly 1`] = `
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB hwNKfY card"
+        className="sc-bgqQcB GAjnS card"
       >
         <figure>
           <img
@@ -310,11 +310,11 @@ exports[`Home component Home component renders correctly 1`] = `
     </a>
     <a
       className=""
-      href="/details/Moscow/55.7522/37.6156"
+      href="/details/Moscow/55.75/37.61"
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB hwNKfY card"
+        className="sc-bgqQcB GAjnS card"
       >
         <figure>
           <img
@@ -334,22 +334,22 @@ exports[`Home component Home component renders correctly 1`] = `
           </li>
           <li>
             Latitude:
-            55.7522
+            55.75
           </li>
           <li>
             Longitude:
-            37.6156
+            37.61
           </li>
         </ul>
       </div>
     </a>
     <a
       className=""
-      href="/details/Mumbai/19.0785/72.8782"
+      href="/details/Mumbai/19.07/72.87"
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB hwNKfY card"
+        className="sc-bgqQcB GAjnS card"
       >
         <figure>
           <img
@@ -369,22 +369,22 @@ exports[`Home component Home component renders correctly 1`] = `
           </li>
           <li>
             Latitude:
-            19.0785
+            19.07
           </li>
           <li>
             Longitude:
-            72.8782
+            72.87
           </li>
         </ul>
       </div>
     </a>
     <a
       className=""
-      href="/details/New York/39.6853/-93.9269"
+      href="/details/New York/39.68/-93.92"
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB hwNKfY card"
+        className="sc-bgqQcB GAjnS card"
       >
         <figure>
           <img
@@ -404,22 +404,22 @@ exports[`Home component Home component renders correctly 1`] = `
           </li>
           <li>
             Latitude:
-            39.6853
+            39.68
           </li>
           <li>
             Longitude:
-            -93.9269
+            -93.92
           </li>
         </ul>
       </div>
     </a>
     <a
       className=""
-      href="/details/Paris/48.8589/2.32"
+      href="/details/Paris/48.85/2.32"
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB hwNKfY card"
+        className="sc-bgqQcB GAjnS card"
       >
         <figure>
           <img
@@ -439,7 +439,7 @@ exports[`Home component Home component renders correctly 1`] = `
           </li>
           <li>
             Latitude:
-            48.8589
+            48.85
           </li>
           <li>
             Longitude:
@@ -450,11 +450,11 @@ exports[`Home component Home component renders correctly 1`] = `
     </a>
     <a
       className=""
-      href="/details/Rio De Janeiro/38.3/21.7833"
+      href="/details/Rio De Janeiro/38.3/21.78"
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB hwNKfY card"
+        className="sc-bgqQcB GAjnS card"
       >
         <figure>
           <img
@@ -478,18 +478,18 @@ exports[`Home component Home component renders correctly 1`] = `
           </li>
           <li>
             Longitude:
-            21.7833
+            21.78
           </li>
         </ul>
       </div>
     </a>
     <a
       className=""
-      href="/details/Rome/41.8933/12.4829"
+      href="/details/Rome/41.89/12.48"
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB hwNKfY card"
+        className="sc-bgqQcB GAjnS card"
       >
         <figure>
           <img
@@ -509,22 +509,22 @@ exports[`Home component Home component renders correctly 1`] = `
           </li>
           <li>
             Latitude:
-            41.8933
+            41.89
           </li>
           <li>
             Longitude:
-            12.4829
+            12.48
           </li>
         </ul>
       </div>
     </a>
     <a
       className=""
-      href="/details/Seoul/37.5665/126.978"
+      href="/details/Seoul/37.56/126.97"
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB hwNKfY card"
+        className="sc-bgqQcB GAjnS card"
       >
         <figure>
           <img
@@ -544,22 +544,22 @@ exports[`Home component Home component renders correctly 1`] = `
           </li>
           <li>
             Latitude:
-            37.5665
+            37.56
           </li>
           <li>
             Longitude:
-            126.978
+            126.97
           </li>
         </ul>
       </div>
     </a>
     <a
       className=""
-      href="/details/Singapore/1.2899/103.8519"
+      href="/details/Singapore/1.28/103.85"
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB hwNKfY card"
+        className="sc-bgqQcB GAjnS card"
       >
         <figure>
           <img
@@ -579,22 +579,22 @@ exports[`Home component Home component renders correctly 1`] = `
           </li>
           <li>
             Latitude:
-            1.2899
+            1.28
           </li>
           <li>
             Longitude:
-            103.8519
+            103.85
           </li>
         </ul>
       </div>
     </a>
     <a
       className=""
-      href="/details/Spain/40.4167/-3.7036"
+      href="/details/Spain/40.41/-3.7"
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB hwNKfY card"
+        className="sc-bgqQcB GAjnS card"
       >
         <figure>
           <img
@@ -614,22 +614,22 @@ exports[`Home component Home component renders correctly 1`] = `
           </li>
           <li>
             Latitude:
-            40.4167
+            40.41
           </li>
           <li>
             Longitude:
-            -3.7036
+            -3.7
           </li>
         </ul>
       </div>
     </a>
     <a
       className=""
-      href="/details/Stockholm/59.3314/18.0594"
+      href="/details/Stockholm/59.33/18.05"
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB hwNKfY card"
+        className="sc-bgqQcB GAjnS card"
       >
         <figure>
           <img
@@ -649,22 +649,22 @@ exports[`Home component Home component renders correctly 1`] = `
           </li>
           <li>
             Latitude:
-            59.3314
+            59.33
           </li>
           <li>
             Longitude:
-            18.0594
+            18.05
           </li>
         </ul>
       </div>
     </a>
     <a
       className=""
-      href="/details/Tokyo/35.6767/139.764"
+      href="/details/Tokyo/35.67/139.76"
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB hwNKfY card"
+        className="sc-bgqQcB GAjnS card"
       >
         <figure>
           <img
@@ -684,22 +684,22 @@ exports[`Home component Home component renders correctly 1`] = `
           </li>
           <li>
             Latitude:
-            35.6767
+            35.67
           </li>
           <li>
             Longitude:
-            139.764
+            139.76
           </li>
         </ul>
       </div>
     </a>
     <a
       className=""
-      href="/details/Yangon/16.8053/96.1561"
+      href="/details/Yangon/16.8/96.15"
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB hwNKfY card"
+        className="sc-bgqQcB GAjnS card"
       >
         <figure>
           <img
@@ -719,11 +719,11 @@ exports[`Home component Home component renders correctly 1`] = `
           </li>
           <li>
             Latitude:
-            16.8053
+            16.8
           </li>
           <li>
             Longitude:
-            96.1561
+            96.15
           </li>
         </ul>
       </div>
