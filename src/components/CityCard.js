@@ -78,7 +78,7 @@ function CityCard({ city }) {
 const Card = styled.div`
   border: 2px solid grey;
   border-radius: 10px;
-  width: 45%;
+  width: 48%;
   margin: 10px;
   figure {
     img {
@@ -87,9 +87,7 @@ const Card = styled.div`
       border-radius: 10px;
     }
   }
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  display: inline-block;
   box-shadow: 0 0 10px rgba(0,0,0,0.5);
   ul {
     list-style: none;
