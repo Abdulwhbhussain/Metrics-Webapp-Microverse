@@ -78,7 +78,7 @@ function CityCard({ city }) {
 const Card = styled.div`
   border: 2px solid grey;
   border-radius: 10px;
-  width: 60%;
+  width: 45%;
   margin: 10px;
   figure {
     img {

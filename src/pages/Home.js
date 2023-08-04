@@ -22,7 +22,7 @@ function Home() {
           <button type="submit" onClick={handleSubmit} className=" md:hidden block hover:bg-sky-700 text-white bg-sky-800 rounded-md py-1 px-3">Search</button>
         </Search>
       </div>
-      <div className="city-container grid grid-cols-2 md:grid-cols-5 border border-t-white">
+      <div style={{ }} className="city-container grid grid-cols-2 md:grid-cols-5 border border-t-white">
         {citiesData.map((city) => <CityCard key={city.name} city={city} />)}
       </div>
     </div>
