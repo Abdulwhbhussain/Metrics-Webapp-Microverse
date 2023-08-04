@@ -89,7 +89,7 @@ The Weather App is a website designed to display weather conditions for cities a
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://www.loom.com/share/bf34dfe621194fcd8e2c0e9599a321ae?sid=9a9c451b-f469-4900-bb8f-099f419c19cb)
+- [Live Demo Link](https://www.loom.com/share/e68036af8e2f41ba844965e58fe1248b?sid=40dac999-7aac-4b37-a147-100adc481cb4)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
