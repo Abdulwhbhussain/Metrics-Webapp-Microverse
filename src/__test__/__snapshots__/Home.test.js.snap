@@ -26,6 +26,7 @@ exports[`Home component Home component renders correctly 1`] = `
   </div>
   <div
     className="city-container grid grid-cols-2 md:grid-cols-5 border border-t-white"
+    style={Object {}}
   >
     <a
       className=""
@@ -33,7 +34,7 @@ exports[`Home component Home component renders correctly 1`] = `
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB kjmUQB card"
+        className="sc-bgqQcB hwNKfY card"
       >
         <figure>
           <img
@@ -68,7 +69,7 @@ exports[`Home component Home component renders correctly 1`] = `
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB kjmUQB card"
+        className="sc-bgqQcB hwNKfY card"
       >
         <figure>
           <img
@@ -103,7 +104,7 @@ exports[`Home component Home component renders correctly 1`] = `
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB kjmUQB card"
+        className="sc-bgqQcB hwNKfY card"
       >
         <figure>
           <img
@@ -138,7 +139,7 @@ exports[`Home component Home component renders correctly 1`] = `
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB kjmUQB card"
+        className="sc-bgqQcB hwNKfY card"
       >
         <figure>
           <img
@@ -173,7 +174,7 @@ exports[`Home component Home component renders correctly 1`] = `
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB kjmUQB card"
+        className="sc-bgqQcB hwNKfY card"
       >
         <figure>
           <img
@@ -208,7 +209,7 @@ exports[`Home component Home component renders correctly 1`] = `
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB kjmUQB card"
+        className="sc-bgqQcB hwNKfY card"
       >
         <figure>
           <img
@@ -243,7 +244,7 @@ exports[`Home component Home component renders correctly 1`] = `
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB kjmUQB card"
+        className="sc-bgqQcB hwNKfY card"
       >
         <figure>
           <img
@@ -278,7 +279,7 @@ exports[`Home component Home component renders correctly 1`] = `
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB kjmUQB card"
+        className="sc-bgqQcB hwNKfY card"
       >
         <figure>
           <img
@@ -313,7 +314,7 @@ exports[`Home component Home component renders correctly 1`] = `
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB kjmUQB card"
+        className="sc-bgqQcB hwNKfY card"
       >
         <figure>
           <img
@@ -348,7 +349,7 @@ exports[`Home component Home component renders correctly 1`] = `
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB kjmUQB card"
+        className="sc-bgqQcB hwNKfY card"
       >
         <figure>
           <img
@@ -383,7 +384,7 @@ exports[`Home component Home component renders correctly 1`] = `
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB kjmUQB card"
+        className="sc-bgqQcB hwNKfY card"
       >
         <figure>
           <img
@@ -418,7 +419,7 @@ exports[`Home component Home component renders correctly 1`] = `
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB kjmUQB card"
+        className="sc-bgqQcB hwNKfY card"
       >
         <figure>
           <img
@@ -453,7 +454,7 @@ exports[`Home component Home component renders correctly 1`] = `
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB kjmUQB card"
+        className="sc-bgqQcB hwNKfY card"
       >
         <figure>
           <img
@@ -488,7 +489,7 @@ exports[`Home component Home component renders correctly 1`] = `
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB kjmUQB card"
+        className="sc-bgqQcB hwNKfY card"
       >
         <figure>
           <img
@@ -523,7 +524,7 @@ exports[`Home component Home component renders correctly 1`] = `
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB kjmUQB card"
+        className="sc-bgqQcB hwNKfY card"
       >
         <figure>
           <img
@@ -558,7 +559,7 @@ exports[`Home component Home component renders correctly 1`] = `
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB kjmUQB card"
+        className="sc-bgqQcB hwNKfY card"
       >
         <figure>
           <img
@@ -593,7 +594,7 @@ exports[`Home component Home component renders correctly 1`] = `
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB kjmUQB card"
+        className="sc-bgqQcB hwNKfY card"
       >
         <figure>
           <img
@@ -628,7 +629,7 @@ exports[`Home component Home component renders correctly 1`] = `
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB kjmUQB card"
+        className="sc-bgqQcB hwNKfY card"
       >
         <figure>
           <img
@@ -663,7 +664,7 @@ exports[`Home component Home component renders correctly 1`] = `
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB kjmUQB card"
+        className="sc-bgqQcB hwNKfY card"
       >
         <figure>
           <img
@@ -698,7 +699,7 @@ exports[`Home component Home component renders correctly 1`] = `
       onClick={[Function]}
     >
       <div
-        className="sc-bgqQcB kjmUQB card"
+        className="sc-bgqQcB hwNKfY card"
       >
         <figure>
           <img

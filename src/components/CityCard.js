@@ -22,6 +22,7 @@ import spain from '../assets/spainn.jpg';
 import stockholm from '../assets/stockholm.jpeg';
 import tokyo from '../assets/tokyo.jpeg';
 import yangon from '../assets/yangon.jpg';
+import './CityCard.css';
 
 function searchCityName(name) {
   if (name === 'Abu Dhabi') return abudhabi;
