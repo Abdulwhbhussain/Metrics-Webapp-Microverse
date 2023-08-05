@@ -1,0 +1,33 @@
+@media screen and (min-width: 375px) {
+  .city-container .link-wrapper .city-card {
+    padding: 30px 10px;
+  }
+
+  .city-container .link-wrapper:nth-child(4n+2),
+  .city-container .link-wrapper:nth-child(4n+3) {
+    background-color: #2f85c7ef;
+  }
+
+  .weather-info li {
+    color: whitesmoke;
+    font-size: 0.9rem;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .city-container .link-wrapper .city-card {
+    padding: 30px 15px;
+  }
+
+  .city-container .link-wrapper:nth-child(odd) {
+    background-color: #468bd0e3;
+  }
+
+  .city-container .link-wrapper:nth-child(even) {
+    background-color: #2f85c7ef;
+  }
+
+  .weather-info li {
+    font-size: 1rem;
+  }
+}

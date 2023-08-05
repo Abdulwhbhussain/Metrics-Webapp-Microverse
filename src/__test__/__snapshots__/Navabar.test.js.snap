@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar component renders correctly 1`] = `
+<nav
+  className="flex md:flex flex-row md:flex-row justify-between px-2 md:px-10 py-5 items-center border-b-2 bg-sky-600"
+>
+  <ul
+    className="m-10 header"
+  >
+    <li
+      className="my-5 text-4xl"
+    >
+      <a
+        aria-current="page"
+        className="active"
+        href="/"
+        onClick={[Function]}
+      >
+        Home
+      </a>
+    </li>
+    <li
+      className="my-5 text-4xl"
+    >
+      <a
+        href="https://openweathermap.org/api"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        Weather API
+      </a>
+    </li>
+    <li
+      className="my-5 text-4xl"
+    >
+      <a
+        href="https://openweathermap.org/api/geocoding-api"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        City API
+      </a>
+    </li>
+  </ul>
+</nav>
+`;
